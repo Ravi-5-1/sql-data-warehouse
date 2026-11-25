@@ -134,7 +134,7 @@ This warehouse can be used to answer business questions such as:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/honeypal36/sql-data-warehouse.git
+git clone https://github.com/Ravi-5-1/sql-data-warehouse.git
 ```
 
 ### Open SQL Server
@@ -174,15 +174,6 @@ Through this project, I learned:
 - Data Quality Checks
 - Performance Optimization
 - Stored Procedures & Indexing
-
----
-
-## 👨‍💻 Author
-
-**Honey Pal**
-
-- GitHub: https://github.com/honeypal36
-- LinkedIn: https://www.linkedin.com/in/honey-pal-520983335
 
 ---
 
